@@ -8,6 +8,20 @@
       "when": 1736676754155,
       "tag": "0000_eminent_agent_zero",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1737286962300,
+      "tag": "0001_friendly_cloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1737305519799,
+      "tag": "0002_cold_warpath",
+      "breakpoints": true
     }
   ]
 }
